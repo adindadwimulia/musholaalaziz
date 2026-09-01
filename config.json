@@ -1,0 +1,16 @@
+{
+  "name": "Mushola Al-Aziz",
+  "slug": "al-aziz",
+  "location": "Kemang IFI Graha, Bekasi, Jawa Barat",
+  "coordinates": {
+    "latitude": -6.3059,
+    "longitude": 106.9446
+  },
+  "timezone": "Asia/Jakarta",
+  "theme": {
+    "primary": "#7b2333",
+    "secondary": "#f7efe3",
+    "accent": "#b28a55"
+  },
+  "notes": "Jadwal September 2026 dimuat dari referensi jadwal Kota Bekasi yang bersumber Bimas Islam/Kemenag. Verifikasi lokal tetap disarankan sebelum digunakan sebagai acuan resmi adzan."
+}
